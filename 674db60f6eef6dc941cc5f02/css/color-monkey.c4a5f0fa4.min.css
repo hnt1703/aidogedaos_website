@@ -14,3 +14,13 @@
   font-display: swap;
 }
 
+
+<style>
+  .partner-logo {
+    width: 10px; /* Điều chỉnh kích thước hình ảnh theo ý muốn */
+    height: 10px; /* Điều chỉnh kích thước hình ảnh theo ý muốn */
+    object-fit: cover; /* Đảm bảo hình ảnh không bị méo */
+    display: block;
+    margin: 0 auto;
+  }
+</style>
